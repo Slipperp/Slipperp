@@ -25,5 +25,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Slipperp&theme=nightowl&show_icons=true&hide_border=false&count_private=true" alt="Slipperp's Stats"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Slipperp&theme=nightowl&hide_border=false" alt="Slipperp's Streak"/>
+  <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=Slipperp&theme=nightowl&hide_border=false" alt="Slipperp's Streak"/>-->
 </p>
