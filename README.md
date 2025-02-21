@@ -20,7 +20,8 @@
   </a> 
 </p>
 
-<hr />
+<h1></h1>
+<br />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Slipperp&theme=nightowl&show_icons=true&hide_border=false&count_private=true" alt="Slipperp's Stats"/>
